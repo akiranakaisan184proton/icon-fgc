@@ -1,0 +1,8 @@
+ <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <!-- Círculo principal que representa a moeda -->
+            <circle cx="16" cy="16" r="14" fill="#FFD700" stroke="#DAA520" stroke-width="2"/>
+            <!-- Detalhes internos para dar a sensação de moeda -->
+            <circle cx="16" cy="16" r="10" fill="#FFA700" stroke="#DAA520" stroke-width="1"/>
+            <!-- Texto "FG" no centro da moeda -->
+            <text x="16" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333333" text-anchor="middle" dominant-baseline="middle">FG</text>
+        </svg>
